@@ -1,4 +1,4 @@
-package pl.javapoz25;
+package pl.javapoz25.OOP1;
 
 import java.util.ArrayList;
 import java.util.List;
